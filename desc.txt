@@ -1,0 +1,1 @@
+🚀 High-performance Abysea mass registration script with Playwright Stealth. Features include auto email generation, automatic FS01 NFT adoption, and token capturing.
